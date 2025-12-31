@@ -37,5 +37,3 @@ The goal of this project is to understand how various machine learning algorithm
 - **Jupyter Notebook**
 
 ---
-
-## 📂 Project Structure
