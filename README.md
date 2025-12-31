@@ -1,8 +1,2 @@
 # MACHINE-LEARNING
-Implemented and compared multiple machine learning algorithms on structured data
-
-Performed data preprocessing, feature scaling, and model training using Python
-
-Evaluated model performance using appropriate metrics
-
-Applied best practices for train-test splitting and transformations
+mplemented and evaluated multiple machine learning algorithms across supervised and unsupervised learning, focusing on proper data preprocessing, feature scaling, and model comparison using Python and scikit-learn.
