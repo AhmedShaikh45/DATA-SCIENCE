@@ -1,2 +1,8 @@
 # MACHINE-LEARNING
-This project focuses on feature scaling in machine learning, explaining its importance and practical implementation using Standardization, Min-Max scaling, and normalization with Python libraries such as NumPy, Pandas, and scikit-learn.
+Implemented and compared multiple machine learning algorithms on structured data
+
+Performed data preprocessing, feature scaling, and model training using Python
+
+Evaluated model performance using appropriate metrics
+
+Applied best practices for train-test splitting and transformations
