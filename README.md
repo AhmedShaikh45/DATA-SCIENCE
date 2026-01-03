@@ -7,7 +7,7 @@ The goal of this project is to understand how various machine learning algorithm
 
 ---
 
-## 🚀 Key Highlights
+## 🚀 Key Highlights 
 - Implemented **multiple machine learning algorithms**
 - Covered both **supervised and unsupervised learning**
 - Applied **feature scaling and preprocessing techniques**
